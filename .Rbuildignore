@@ -33,3 +33,5 @@ installR.Rproj
 ^appveyor\.yml$
 ^\.github$
 ^.lintr$
+^AGENTS\.md$
+^CLAUDE\.md$
